@@ -1,0 +1,7 @@
+Problems in A3_ex2:
+	1) 1.3 Dictionary and abbreviations must be on different page, not on the same page with 1.2 and 1.1
+	2) section 1.1(Purpose) does not specify intended audience
+	3) In section 1.4 (References) each document must be identified, not just general reference like "wikipedia.org"
+Features of our project:
+	1) Account - you need an account for desktop application, without it you can't access functions of desktop application
+	2) Staff - you need staff, because managers are needed to fill online catalogue, couriers are needed to deliver products
