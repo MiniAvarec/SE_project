@@ -1,0 +1,7 @@
+﻿REQ#    	Req																						Problem				Reason
+3.2.1.2.4 	(M) The SDU Timetabling shall allow to press on “Print” button in order to print		Not complete		It's not complete because it's unknown which data does the
+			page after pressing “Next” button																			system have to print.
+3.2.1.3.5 	(M) The SDU Timetabling shall display such fields like login and password and			Not tracable		It's not tracable because it's unknown how to get this fields no any triggers.
+			“Apply” button in order to get personal timetable
+3.2.2.1.7 	(M) The SDU Timetabling shall allow the user to press on “Search”,”Export				Not complete		It's not complete because it's unknown what does the "Export PDF","iCalendar"
+			PDF”,”Add Event”, “iCalendar” buttons.																		buttons do.
